@@ -1,0 +1,1 @@
+ This program calculates an employee’s gross salary, taxes paid, and net pay. The then displays employee salary information on the screen
